@@ -1,0 +1,10 @@
+C:\Users\kagejohn\source\repos\TestA2\TestA2\bin\Debug\netcoreapp2.1\TestA2.deps.json
+C:\Users\kagejohn\source\repos\TestA2\TestA2\bin\Debug\netcoreapp2.1\TestA2.runtimeconfig.json
+C:\Users\kagejohn\source\repos\TestA2\TestA2\bin\Debug\netcoreapp2.1\TestA2.runtimeconfig.dev.json
+C:\Users\kagejohn\source\repos\TestA2\TestA2\bin\Debug\netcoreapp2.1\TestA2.dll
+C:\Users\kagejohn\source\repos\TestA2\TestA2\bin\Debug\netcoreapp2.1\TestA2.pdb
+C:\Users\kagejohn\source\repos\TestA2\TestA2\obj\Debug\netcoreapp2.1\TestA2.csproj.CoreCompileInputs.cache
+C:\Users\kagejohn\source\repos\TestA2\TestA2\obj\Debug\netcoreapp2.1\TestA2.AssemblyInfoInputs.cache
+C:\Users\kagejohn\source\repos\TestA2\TestA2\obj\Debug\netcoreapp2.1\TestA2.AssemblyInfo.cs
+C:\Users\kagejohn\source\repos\TestA2\TestA2\obj\Debug\netcoreapp2.1\TestA2.dll
+C:\Users\kagejohn\source\repos\TestA2\TestA2\obj\Debug\netcoreapp2.1\TestA2.pdb
